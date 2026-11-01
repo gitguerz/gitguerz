@@ -5,7 +5,7 @@
 # 👋🏽 Hey, Earth! I am <strong>Guerz</strong>!
 
 <!-- Image sized with width; alt text is required for screen readers -->
-</<img src="https://github.com/user-attachments/assets/d1b843bf-b695-4ccf-9228-7d15667b23ad" width="1368" height="1368" alt="Guerz Selfie"  />
+</<img src="https://github.com/user-attachments/assets/d1b843bf-b695-4ccf-9228-7d15667b23ad" width="120" alt="Guerz Selfie"  />
 
 </div>
 
@@ -41,4 +41,3 @@
 </ul>
 
 </details>
--->
