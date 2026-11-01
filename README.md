@@ -22,7 +22,7 @@
   
 - 🌱 I’m currently learning: 
     <ul>
-      <li><a href="https://catalog.fullsail.edu/degrees/web-development-bachelor-of-science/online">Full Sail University - Web Development B.S. Online</a>
+      <li><a href="https://catalog.fullsail.edu/degrees/web-development-bachelor-of-science/online">Full Sail University - Web Development B.S. Online</a></li>
         <li><a href="https://www.freecodecamp.org/learn/javascript-v9/">freeCodeCamp - JavaScript Certification Curriculum</a></li>
     </ul>
     
@@ -36,7 +36,7 @@
 - 🪀 Fun facts:
   <ul>
     <li>I'm a multi-instrumentalist (guitar, bass, drums, baritone ukulele, trombone, synths, and electronic music production).</li>
-    <li>I'm Genre-Fluid ADHDJ</li>
+    <li>I'm a Genre-Fluid ADHDJ</li>
     <li>I'm sinistral (left-handed).</li>
     <li>It's pronounced: <strong>"Guerz"</strong></li>
   </ul>
