@@ -34,10 +34,11 @@
   </ul>
   
 - 🪀 Fun facts:
-<ul>
-  <li>I'm a multi-instrumentalist (guitar, bass, drums, baritone ukulele, trombone, synths, and electronic music production)</li>
-  <li>Genre-Fluid ADHDJ</li>
-  <li></li>sinistral (left-handed)</li>
-</ul>
+  <ul>
+    <li>I'm a multi-instrumentalist (guitar, bass, drums, baritone ukulele, trombone, synths, and electronic music production).</li>
+    <li>I'm Genre-Fluid ADHDJ</li>
+    <li>I'm sinistral (left-handed).</li>
+    <li>It's pronounced: <strong>"Guerz"</strong></li>
+  </ul>
 
 </details>
