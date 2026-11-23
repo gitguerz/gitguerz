@@ -1,11 +1,12 @@
 <!-- Centered header block: align="center" is one of the attributes GitHub keeps -->
 <div align="center">
 
-<!-- Heading inside the div; the blank lines around it let Markdown render -->
+<!-- Head'<img width="640" height="640" alt="guerz-selfie-circle"  />
+ing inside the div; the blank lines around it let Markdown render -->
 # 👋🏽 Hey, Earth! I am <strong>Guerz</strong>!
 
 <!-- Image sized with width; alt text is required for screen readers -->
-<img src="https://github.com/user-attachments/assets/d1b843bf-b695-4ccf-9228-7d15667b23ad" width="320" alt="Guerz Selfie"  />
+<img src="https://github.com/user-attachments/assets/1e4ae51d-4a77-4e06-8a93-7832191ba400" width="320" alt="Guerz Selfie"  />
 
 </div>
 
